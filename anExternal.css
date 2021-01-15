@@ -1,0 +1,41 @@
+body {
+    background-color: lightsteelblue;
+}
+h1 {
+    border: 5px dotted white;
+    font-size: 300%;
+    text-align: center;
+    
+}
+
+div {
+    float:right;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+  }
+#one {
+    font-size: 200%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 25px;
+    border: 2px solid white;
+    padding: 20px;
+    width: 148px;
+    height: 40px
+}
+#two {
+    font-size: 200%;
+    font-family:'Courier New', Courier, monospace
+}
