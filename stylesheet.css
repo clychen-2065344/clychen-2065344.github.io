@@ -1,9 +1,12 @@
-<<<<<<< HEAD
 body {
     background-color: lightsteelblue;
 }
-=======
-body {
-    background-color: lightsteelblue;
+h1 {
+    border: 2px dotted white;
 }
->>>>>>> 514231d6f27ad28f0a6a0607a9deaa88bcb7c2bb
+#para1 {
+    font-family:
+}
+#para1 {
+    font-family:'Courier New', Courier, monospace
+}
